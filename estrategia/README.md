@@ -26,3 +26,5 @@ Esta pasta reúne conceitos para definir, executar e revisar uma estratégia de 
 5. Registre as premissas e revise decisões com base em informações verificáveis.
 
 > Material educacional. Não constitui recomendação individual de investimento.
+
+- [Exemplo de tese de investimento](tese_de_investimento.md)
