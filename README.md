@@ -27,6 +27,21 @@ Repositório de materiais didáticos para estudar conceitos de educação financ
 - [ETFs internacionais](internacional/etf.md)
 - [Renda fixa internacional](internacional/renda_fixa.md)
 
+### Estratégia de investimentos
+- [Visão geral da estratégia](estrategia/README.md)
+- [Day trade](estrategia/day_trade.md)
+- [Swing trade](estrategia/swing_trade.md)
+- [Buy and hold](estrategia/buy_and_hold.md)
+- [Diversificação](estrategia/diversificacao.md)
+- [Stock picking vs. factor investing](estrategia/stock_picking_vs_factor_investing.md)
+- [Análise de empresas](estrategia/analise_de_empresas.md)
+- [Análise técnica](estrategia/analise_tecnica.md)
+- [Análise fundamentalista](estrategia/analise_fundamentalista.md)
+- [Gráficos](estrategia/graficos.md)
+- [Demonstrativos financeiros](estrategia/demonstrativos_financeiros.md)
+- [Indicadores](estrategia/indicadores.md)
+- [Análise qualitativa](estrategia/analise_qualitativa.md)
+
 ### Outros materiais
 - [Guia de investimentos](guia_investimentos.md)
 - [Bancos, corretoras e exchanges](guia_bancos_corretoras_exchanges.md)
