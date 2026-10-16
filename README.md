@@ -11,6 +11,7 @@ Repositório de apoio para aulas e estudos de **educação financeira**, com mat
 - [Bens e serviços](docs/fundamentos/bens_e_servicos_para_criancas.md) — distinção entre bens, serviços, necessidades e escolhas.
 
 ### 2. Planejamento e investimentos
+- [Renda fixa](docs/renda-fixa/README.md) — poupança, bancos digitais, Tesouro Direto e títulos privados.
 - [Guia de investimentos](docs/investimentos/guia_investimentos.md) — conceitos básicos, renda fixa e renda variável.
 - [Bancos, corretoras e exchanges](docs/investimentos/guia_bancos_corretoras_exchanges.md) — instituições financeiras e plataformas de investimento.
 - [Previdência privada: PGBL e VGBL](docs/investimentos/previdencia_pgbl_vgbl.md) — diferenças gerais de tributação e planejamento de longo prazo.
