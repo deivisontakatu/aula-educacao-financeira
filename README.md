@@ -11,6 +11,14 @@ Repositório de materiais didáticos para estudar conceitos de educação financ
 - [Tesouro Direto](renda-fixa/tesouro_direto.md)
 - [Título privado](renda-fixa/titulo_privado.md) — CDB, LCI, LCA, debêntures, CRI e CRA.
 
+### Renda variável
+- [Visão geral de renda variável](renda-variavel/README.md)
+- [Mercado nacional](renda-variavel/nacional.md)
+- [Ações](renda-variavel/acoes.md)
+- [BDRs](renda-variavel/bdr.md)
+- [Fundos de Investimento Imobiliário (FIIs)](renda-variavel/fiis.md)
+- [ETFs](renda-variavel/etf.md)
+
 ### Outros materiais
 - [Guia de investimentos](guia_investimentos.md)
 - [Bancos, corretoras e exchanges](guia_bancos_corretoras_exchanges.md)
