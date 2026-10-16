@@ -42,14 +42,22 @@ Repositório de materiais didáticos para estudar conceitos de educação financ
 - [Indicadores](estrategia/indicadores.md)
 - [Análise qualitativa](estrategia/analise_qualitativa.md)
 
-### Outros materiais
-- [Guia de investimentos](guia_investimentos.md)
-- [Bancos, corretoras e exchanges](guia_bancos_corretoras_exchanges.md)
-- [Previdência: PGBL e VGBL](Previdencia_PGBL_VGBL.md)
-- [Criptomoedas](Crypto.md)
-- [Tese de investimento](Tese%20de%20Investimento.md)
-- [Bens e serviços para crianças](bens_e_servicos_para_criancas.md)
-- [Importância da poupança para crianças](importancia_poupanca_para_criancas.md)
+### Fundamentos
+- [Guia de investimentos](fundamentos/guia_investimentos.md)
+- [Bancos, corretoras e exchanges](fundamentos/bancos_corretoras_exchanges.md)
+
+### Previdência privada
+- [PGBL e VGBL](previdencia/pgbl_vgbl.md)
+
+### Educação financeira infantil
+- [Bens e serviços](educacao-infantil/bens_e_servicos.md)
+- [Importância da poupança](educacao-infantil/importancia_da_poupanca.md)
+
+### Criptoativos
+- [Guia completo de criptomoedas](internacional/guia_criptomoedas.md)
+
+### Tese de investimento
+- [Exemplo de tese de investimento](estrategia/tese_de_investimento.md)
 
 ## Orientação de uso
 
