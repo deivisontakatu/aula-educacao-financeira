@@ -19,6 +19,14 @@ Repositório de materiais didáticos para estudar conceitos de educação financ
 - [Fundos de Investimento Imobiliário (FIIs)](renda-variavel/fiis.md)
 - [ETFs](renda-variavel/etf.md)
 
+### Investimentos internacionais
+- [Visão geral](internacional/README.md)
+- [Stocks — ações internacionais](internacional/stock.md)
+- [REITs — fundos imobiliários internacionais](internacional/reit.md)
+- [Criptoativos](internacional/crypto.md)
+- [ETFs internacionais](internacional/etf.md)
+- [Renda fixa internacional](internacional/renda_fixa.md)
+
 ### Outros materiais
 - [Guia de investimentos](guia_investimentos.md)
 - [Bancos, corretoras e exchanges](guia_bancos_corretoras_exchanges.md)
